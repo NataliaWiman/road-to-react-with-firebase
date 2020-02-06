@@ -1,5 +1,9 @@
 import React from "react";
 
-export const Session = () => {
-  return <div></div>;
-};
+const Session = () => (
+  <div>
+    <h1>App</h1>
+  </div>
+);
+
+export default Session;

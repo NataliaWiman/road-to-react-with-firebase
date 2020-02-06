@@ -1,5 +1,9 @@
 import React from "react";
 
-export const Admin = () => {
-  return <div></div>;
-};
+const Admin = () => (
+  <div>
+    <h1>App</h1>
+  </div>
+);
+
+export default Admin;

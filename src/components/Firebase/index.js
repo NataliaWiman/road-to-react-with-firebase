@@ -1,5 +1,9 @@
 import React from "react";
 
-export const Firebase = () => {
-  return <div></div>;
-};
+const Firebase = () => (
+  <div>
+    <h1>App</h1>
+  </div>
+);
+
+export default Firebase;
